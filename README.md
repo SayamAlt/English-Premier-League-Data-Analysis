@@ -51,6 +51,8 @@ All data is in CSV format, ready for use within standard spreadsheet application
 <li> HBP = Home Team Bookings Points (10 = yellow, 25 = red) </li>
 <li> ABP = Away Team Bookings Points (10 = yellow, 25 = red) </li>
 
+</ul> 
+
 ### Note that Free Kicks Conceded includes fouls, offsides, and any other offense committed and will always be equal to or higher than the number of fouls. Fouls make up the vast majority of Free Kicks Conceded. Free Kicks Conceded are shown when specific data on Fouls are not available (France 2nd, Belgium 1st, and Greece 1st divisions).
 
 ### Note also that English and Scottish yellow cards do not include the initial yellow card when a second is shown to a player converting it into a red, but this is included as a yellow (plus red) for European games.
